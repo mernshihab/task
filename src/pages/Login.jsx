@@ -29,7 +29,7 @@ const Login = () => {
         <div className="text-center mt-[50px]">
           <img
             className="bg-iconBG p-[10px] mx-auto rounded-3xl"
-            src="src/assets/wave.png"
+            src="images/wave.png"
             alt="Wave"
           />
           <h3 className="font-poppins font-semibold text-primary text-[32px] leading-10 mt-[30px]">
@@ -45,7 +45,7 @@ const Login = () => {
               target="_blank"
               className="bg-boxBG flex p-4 rounded-[14px]"
             >
-              <img src="src/assets/facebook.png" alt="Facebook" />
+              <img src="images/facebook.png" alt="Facebook" />
               <h3 className="font-poppins font-medium text-base w-[91px] text-link leading-6 ml-4">
                 Facebook
               </h3>
@@ -55,7 +55,7 @@ const Login = () => {
               target="_blank"
               className="bg-boxBG flex p-4 rounded-[14px]"
             >
-              <img src="src/assets/google.png" alt="Google" />
+              <img src="images/google.png" alt="Google" />
               <h3 className="font-poppins font-medium text-base w-[91px] text-link leading-6 ml-4">
                 Google
               </h3>
